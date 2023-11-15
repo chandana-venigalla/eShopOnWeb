@@ -9,7 +9,7 @@ env:
   LOCATION: EastUS
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 7d619aae-29a0-4785-8ca6-e1f2ad0af70e
-  WEBAPP-NAME: az400-webapp-chanduv2
+  WEBAPP-NAME: az400-webapp-chandu
 
 
 jobs:
